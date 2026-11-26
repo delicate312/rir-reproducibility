@@ -1,1 +1,0 @@
-Packaging verification for this submission is recorded in VALIDATION.txt after the checks complete. The source includes dynamic training dependencies, existing tests and original algorithm code. No data or working-tree symlinks are included. The separately prepared historical model asset preserves its original manifest. Full raw-data experiments are not rerun by packaging.
