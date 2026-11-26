@@ -1,0 +1,1 @@
+These are portable identity exports derived from the existing split indexes/family list, not replacement historical hash receipts. Original frozen protocols are preserved in the parent project. Numerical selected parameters and thresholds are in reference_results.
